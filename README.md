@@ -38,8 +38,8 @@ Real-time ML prediction app using multiple models (SVM, RF, XGBoost) with SMOTE 
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/tejob)
-- 📧 bandaruteja12345@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/tejobandaru)
+- 📧 [Gmail]bandaruteja12345@gmail.com
 ---
 
 > “Don’t just code — build, deploy, and solve real problems.”  
